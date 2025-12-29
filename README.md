@@ -39,18 +39,20 @@ O principal objetivo do **DevJobs Lite** é:
 
 ## 📁 Estrutura do Projeto
 
+
+
 devjobs-lite/
 ├── assets/
-│ ├── logo.png
-│ └── screenshots/
-│ ├── home.png
-│ └── vaga.png
+│   ├── logo.png
+│   └── screenshots/
+│       ├── home.png
+│       └── vaga.png
 ├── css/
-│ └── style.css
+│   └── style.css
 ├── js/
-│ ├── data.js
-│ ├── app.js
-│ └── vaga.js
+│   ├── data.js
+│   ├── app.js
+│   └── vaga.js
 ├── index.html
 ├── vaga.html
 └── README.md
