@@ -40,7 +40,7 @@ O principal objetivo do **DevJobs Lite** é:
 ## 📁 Estrutura do Projeto
 
 ```
-devjobs-lite/
+DEVJOBS-LITE/
 ├── assets/
 │   ├── logo.png
 │   └── screenshots/
