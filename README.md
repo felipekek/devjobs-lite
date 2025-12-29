@@ -39,8 +39,7 @@ O principal objetivo do **DevJobs Lite** é:
 
 ## 📁 Estrutura do Projeto
 
----
-
+```
 devjobs-lite/
 ├── assets/
 │   ├── logo.png
@@ -56,14 +55,15 @@ devjobs-lite/
 ├── index.html
 ├── vaga.html
 └── README.md
-
----
+```
 
 ---
 
 ## 📸 Preview
 
 ![Página inicial](./assets/screenshots/home.png)
+---
+---
 ![Detalhes da vaga](./assets/screenshots/vaga.png)
 
 
